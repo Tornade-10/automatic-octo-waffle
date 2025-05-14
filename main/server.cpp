@@ -1,8 +1,6 @@
-
 #include <SFML/Network/TcpSocket.hpp>
 #include <SFML/Network/TcpListener.hpp>
 #include <SFML/Network/SocketSelector.hpp>
-
 
 #include <vector>
 #include <array>

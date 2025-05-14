@@ -1,0 +1,3 @@
+C:/Users/maxen/source/repos/automatic-octo-waffle/cmake-build-relwithdebinfo/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
+C:/Users/maxen/source/repos/automatic-octo-waffle/cmake-build-relwithdebinfo/_deps/freetype-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/maxen/source/repos/automatic-octo-waffle/cmake-build-relwithdebinfo/_deps/freetype-subbuild/CMakeFiles/rebuild_cache.dir

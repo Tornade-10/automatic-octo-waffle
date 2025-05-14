@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "externals/crackitos_physics/crackitos_physics",
+		"source" : "externals/crackitos_physics/crackitos_physics"
+	}
+}

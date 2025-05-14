@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=RelWithDebInfo "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:/Dev/vcpkg/scripts/buildsystems/vcpkg.cmake -DENABLE_SAMPLES:BOOL=OFF -DENABLE_GTESTS:BOOL=OFF -G Ninja -S C:\Users\maxen\source\repos\automatic-octo-waffle -B C:\Users\maxen\source\repos\automatic-octo-waffle\cmake-build-relwithdebinfo
+-- Found OpenGL: opengl32  found components: OpenGL
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Configuring libogg 1.3.5
+-- Configuring vorbis 1.3.7
+-- Found ImGui v1.91.8 in C:/Users/maxen/source/repos/automatic-octo-waffle/externals/imgui
+-- Found OpenGL: opengl32
+-- Configuring done (6.2s)
+-- Generating done (0.7s)
+-- Build files have been written to: C:/Users/maxen/source/repos/automatic-octo-waffle/cmake-build-relwithdebinfo
